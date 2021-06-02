@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\git"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "initializr"
+	}
+}
