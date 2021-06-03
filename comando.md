@@ -193,3 +193,26 @@
 
 **git fetch**
 **
+
+
+
+<!-- Comandos de markdow -->
+<!-- Encabezados -->
+# Probando
+## Probando
+### Probando
+#### Probando
+
+##### Probando
+
+<!-- textos -->
+**Negrita**
+*letra cursiva*
+* lista desdenada.
+1. lista ordenada.
+
+<!-- imagenes -->
+![Imagen](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/spider-man-remastered-ps5-esquire-4-1605525077.jpg?crop=0.524xw:1.00xh;0.298xw,0&resize=640:*)
+
+<!-- Enlaces -->
+[enlace](url)
